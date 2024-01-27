@@ -1,2 +1,2 @@
 # C++ project
-Building Cricket Game Application modules
+Building Virtual Cricket Game Application modules
